@@ -4,7 +4,7 @@ This is a game of tic-tac-toe against a computer player. At the moment the compu
 
 Select squares to play as shown:
 
-![Square selection](resources/square_selection.png)
+<img src=resources/square_selection.png width=500>
 
 The game is rendered on the command line as shown:
 
